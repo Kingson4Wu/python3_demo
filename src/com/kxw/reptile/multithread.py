@@ -2,7 +2,7 @@
 #  http://obmem.info/?p=476
 
 from threading import Thread
-from Queue import Queue
+from queue import Queue
 from time import sleep
 
 # 4.多线程并发抓取
