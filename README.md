@@ -38,7 +38,7 @@ urllib ,urllib2 <br/>
 
 
 ---
-###pip & easy_install
+### pip & easy_install
 <http://www.2cto.com/kf/201309/246889.html>
 easy_insall的作用和perl中的cpan, ruby中的gem类似，都提供了在线一键安装模块的傻瓜方便方式，而pip是easy_install的改进版, 提供更好的提示信息，删除package等功能。老版本的python中只有easy_install, 没有pip。
 
@@ -52,6 +52,7 @@ easy_insall的作用和perl中的cpan, ruby中的gem类似，都提供了在线�
  $ easy_install -U "<package_name>>=<version>"
  
 + pip的用法
+ 安装pip:` easy_install pip`
  
 1) 安装一个包
  $ pip install <package_name>
@@ -64,4 +65,11 @@ easy_insall的作用和perl中的cpan, ruby中的gem类似，都提供了在线�
  $ pip uninstall <package_name> 
 
 
+---
+### Scrapy
+### Beautiful Soup
+<http://cuiqingcai.com/1319.html>
+<http://blog.csdn.net/watsy/article/details/14161201>
+<http://www.crummy.com/software/BeautifulSoup/bs4/doc/>
+很多标签解析,跟jsoup有点像
 
