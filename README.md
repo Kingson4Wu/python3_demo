@@ -1,4 +1,18 @@
-###python basic
+### 基础
+1.  通过命令行运行Python脚本 `python hello.py`
+2.  普通程序运行脚本
+    `#!/usr/bin/env python`
+    `#!/usr/bin/python3`
+     赋予脚本可执行属性： `chmod a+x hello.py`
+3.      
+
+
+### pycharm
+1. file --> settings --> project settings -->project interpreter 这里是PyCharm的的所有已安装插件
+然后点击右面的 绿色“+”号。搜索 Django 安装即可。
+里面基本上包括所有常见模块
+
+### python basic
 <http://www.runoob.com/python3/python3-tutorial.html>
 
 + python中数有四种类型：整数、长整数、浮点数和复数。
