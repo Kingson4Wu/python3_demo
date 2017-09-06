@@ -1,9 +1,9 @@
 ### 基础
 1.  通过命令行运行Python脚本 `python hello.py`
 2.  普通程序运行脚本
-    `#!/usr/bin/env python`
-    `#!/usr/bin/python3`
-     赋予脚本可执行属性： `chmod a+x hello.py`
+    - `#!/usr/bin/env python`
+    - `#!/usr/bin/python3`
+    -  赋予脚本可执行属性： `chmod a+x hello.py`
 3.      
 
 
