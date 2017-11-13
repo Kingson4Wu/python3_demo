@@ -87,3 +87,12 @@ easy_insall的作用和perl中的cpan, ruby中的gem类似，都提供了在线�
 <http://www.crummy.com/software/BeautifulSoup/bs4/doc/>
 很多标签解析,跟jsoup有点像
 
+---
+SyntaxError: Non-ASCII character '\xe2' in file意思是说，在文件中存在非ASCII字符
+# -*- coding: cp936 -*-
+或者
+# -*- coding: utf-8 -*
+
+---
+$ brew install mysql-connector-c
+$ sudo pip3 install MySQL-python

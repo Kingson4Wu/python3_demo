@@ -1,4 +1,6 @@
+#coding=utf-8
 #!/usr/bin/python
+
 import keyword
 
 print("Hello, World!")
