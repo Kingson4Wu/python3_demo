@@ -96,3 +96,4 @@ SyntaxError: Non-ASCII character '\xe2' in file意思是说，在文件中存在
 ---
 $ brew install mysql-connector-c
 $ sudo pip3 install MySQL-python
+pip3 install MySQL-connector-python
