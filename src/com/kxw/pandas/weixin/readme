@@ -1,0 +1,9 @@
+用 Python 分析 CSDN 小姐姐一年都做了啥:https://mp.weixin.qq.com/s/RzJdAioereq7D0og8iS4XA
+
+/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages
+mv ~/Downloads/simhei.ttf /Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/matplotlib/mpl-data/fonts/ttf
+
+
+
+
+解决Mac系统下matplotlib中文显示方块问题: https://www.cnblogs.com/Ootori/p/7716687.html
