@@ -102,3 +102,10 @@ pip3 install MySQL-connector-python
 
 sudo pip3 install pandas
 pip3 install xlrd
+
+----
+pyecharts 是一个用于生成 Echarts 图表的类库
+http://pyecharts.org/
+https://mp.weixin.qq.com/s/7m4wu7RsAK0AjLIC_m9e4g
+
+数据分词生成云图
