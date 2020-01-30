@@ -109,3 +109,7 @@ http://pyecharts.org/
 https://mp.weixin.qq.com/s/7m4wu7RsAK0AjLIC_m9e4g
 
 数据分词生成云图
+
+---
+这个使用 Python 编写的 PDF 神器你值得拥有！:<https://mp.weixin.qq.com/s/p8t0YHtj4Gzvig9e7Wg_ow>
+Excalibur
