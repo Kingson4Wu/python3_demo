@@ -113,3 +113,6 @@ https://mp.weixin.qq.com/s/7m4wu7RsAK0AjLIC_m9e4g
 ---
 这个使用 Python 编写的 PDF 神器你值得拥有！:<https://mp.weixin.qq.com/s/p8t0YHtj4Gzvig9e7Wg_ow>
 Excalibur
+
+---
++ 25个有用的 Python 代码段:<https://t.im/mnp2>
