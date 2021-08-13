@@ -115,4 +115,8 @@ https://mp.weixin.qq.com/s/7m4wu7RsAK0AjLIC_m9e4g
 Excalibur
 
 ---
+比 Excel 更强大，Python 的可视化库 Altair 入门:<https://mp.weixin.qq.com/s?__biz=MzAxMjcyNjE5MQ==&mid=2650489415&idx=1&sn=c72a225d590d5d0efb3271acabbe204d&chksm=83a29887b4d51191ed7f89d3319181241d185b1cfe7a8953ba99c84177338f2c4b46863d33a4&mpshare=1&scene=1&srcid=&sharer_sharetime=1581349572129&sharer_shareid=dcfe0eae58d1da3d4cc1d60a98c3905c#rd>
+
+
+---
 + 25个有用的 Python 代码段:<https://t.im/mnp2>
