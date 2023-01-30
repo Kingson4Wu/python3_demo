@@ -19,3 +19,7 @@ def read03Excel(path):
 
 
 read03Excel("bike.xlsx")
+
+# 原因：xlrd升级后不支持xlsx文件读取了，通过降低版本
+# pip3 uninstall xlrd
+# pip3 install xlrd==1.2.0

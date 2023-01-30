@@ -158,7 +158,7 @@ file: 类文件对象，有read()和readline()接口。
 import pickle
 
 data1 = {'a': [1, 2.0, 3, 4+6j],
-         'b': ('string', u'Unicode string'),
+         #'b': ('string', u'Unicode string'),
          'c': None}
 
 selfref_list = [1, 2, 3]

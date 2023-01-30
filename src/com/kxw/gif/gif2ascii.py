@@ -5,7 +5,12 @@
 # Created by 2048K, kairan2048@163.com
 # https://www.jianshu.com/p/abcc7955ade0
 # https://github.com/zeamonk/funny-python
-#  --file torres.gif --isgray TRUE
+
+# cd src/com/kxw/gif
+# python3 gif2ascii.py --file torres.gif --isgray TRUE
+
+# pip3 install imageio
+
 
 import os, sys
 import imageio
