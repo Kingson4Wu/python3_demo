@@ -120,3 +120,26 @@ Excalibur
 
 ---
 + 25个有用的 Python 代码段:<https://t.im/mnp2>
+
+---
+
+## 数据处理和分析
++ 数据处理和加工
+python的NumPy+Matplotlib库
+
++ 新一代自助大数据分析的BI工具
++ https://www.fanruan.com/finebi
+
++ wordcloud库生成词云
++ 利用wordcloud库和jieba库进行词云统计生成词云
+
++ 利用echarts进行可视化分析
+
++ Pandas 统计数据
+https://blog.csdn.net/qq_42067550/article/details/106260512
+
++ 使用selenium 抓取数据
+
+
+
+
