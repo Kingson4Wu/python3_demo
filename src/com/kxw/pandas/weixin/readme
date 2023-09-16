@@ -3,7 +3,15 @@
 /Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages
 mv ~/Downloads/simhei.ttf /Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/matplotlib/mpl-data/fonts/ttf
 
+vi /Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/matplotlib/mpl-data/matplotlibrc
 
+更改如下内容， 将前面的#号去掉
+font.family         : sans-serif
+font.sans-serif     : SimHei, Bitstream Vera Sans, Lucida Grande, Verdana, Geneva, Lucid, Arial, Helvetica, Avant Garde, sans-serif
+axes.unicode_minus，将True改为False，作用就是解决负号'-'显示为方块的问题
 
+查看~/.matplotlib目录下的文件，如果是有fontlist-v330.json这种文件，建议先拷贝一份在其他地方，然后把这个删掉：
+
+rm -rf ~/.matplotlib/fontlist-v330.json
 
 解决Mac系统下matplotlib中文显示方块问题: https://www.cnblogs.com/Ootori/p/7716687.html
